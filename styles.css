@@ -1,0 +1,36 @@
+body {
+    background-color: blueviolet;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container {
+    background-color: fuchsia;
+    border: solid black 4px;
+    height: 275px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    position: ab
+
+}
+
+#userInput {
+    border: solid 2px;
+}
+
+
+
+#start {
+    border: solid 2px;
+    padding: 2px;
+    background-color: aqua;
+    
+}
+
+#resetBtn {
+    border: solid 2px;
+    padding: 2px;
+    background-color: aqua;
+    
+}
